@@ -1,5 +1,13 @@
 In 140 characters or less, tell us what makes you unique. * 
+
+
+
 An actor, int'l teacher, clown, gardener, painter, bbq-pitmaster, baseball fanatic, former nanny, and "hungover swing man" on bball-court.
+
+
+
+
+
 
 Why are you applying to the Flatiron School? *
 
@@ -9,7 +17,7 @@ I admire Flatiron’s ability to teach coding as an art. Five years ago, the tho
 
 I know any career I pursue will need to have the room for me to be creative. I will always approach whatever I do as an artist. This is what attracts me to programming.
 
-I saw first hand how the Flatiron School helped my roommate, Josh Rowley; he grew as a friend and professional. I also saw how much dedication it took on his part. And I can see how he still hasn’t stopped learning new things since. After speaking with Josh, he warned me of programming’s struggles and obstacles, the need for resilience when learning, and the persistence to keep going.  I have watched him grow from an eager student into a polished professional. I decided to give it a go and started working on the Flatiron School’s pre-work. I dove right in, and have hardly come up for a breath since.
+I saw first hand how the Flatiron School helped my roommate, Josh Rowley; he grew as a friend and professional. I also saw how much dedication it took on his part. And I can see how he still hasn’t stopped learning new things since. After speaking with Josh, he warned me of programming’s struggles and obstacles, the need for resilience when learning, and the persistence to keep going.  I have watched him grow from an eager student into a polished professional. I decided to give it a go and started working on the Flatiron School’s pre-work. I dove right in, and have hardly come up for a breath since. 
 
 First, I took a course on how to build an HTML/CSS site from scratch. This gave me the impetus to design my own website, “dodgerredhead.nyc”, that would function as a blog where I could share cool things about myself with the world. As I built the website, it became apparent to me how programming really is a creative expression. Similar to acting, programming requires you to use your whole mind like a puzzle does, visualize large complex problems and break them down into smaller tasks.
 
@@ -19,7 +27,14 @@ I challenged myself to study programming on my own and I have a passion to conti
 
 
 
+
+
+
+
+
 Tell us about your professional/educational career to date. What are you up to now and how did you end up there? *
+
+
 I grew up in Pasadena, CA and moved to New York City in 2006 to attend NYU’s Tisch School of the Arts. I graduated in 2010 with a BFA in Acting and a minor in African studies. 
 
 I studied in the Meisner Extension, part of NYU Tisch’s rigorous studio program. The ideology centers around one principle: to build your character through detail by asking questions and trying to be as specific as possible. Break down every aspect of the problem at hand and find out as much as you can about it.
@@ -32,9 +47,54 @@ As the nanny of two 10 year olds in Brooklyn, I found the delicate balance of be
 
 And using what I had learned about art, farming and carpentry from my experiences in Africa, I transformed the backyard of my Crown Heights brownstone into an urban-garden. Digging up the Kudzu-infested soil and filling it with a slew of heirloom tomatoes, tomatillos, and mammoth sunflowers; scouring the streets of Brooklyn for the perfect wooden pallets to recycle into a table, bench and vertical planters full of lush greens. 
 
-In the fall of 2014, I started working for a grocery delivery tech start up, Good Eggs, as a member of their operations team. I was attracted to the company because of their mission to build and sustain local food systems. I began studying the code that Good Egg’s systems relied on and this sparked my interest in being a web developer. I realized I wanted to be a part of a team that built applications like the ones the operations team ran on. In February of 2015 Good Eggs underwent a restructure that resulted in the company laying off 20% of the wok force in one day. I was among those who lost their jobs that day. After initially feeling disappointment, it turned out to be a blessing in disguise, as I have now been able to dedicate more of my time to programming. All of these unique experiences have led me to a place where I am ready to use my adaptability, creativity and problem-solving skills in an innovative and challenging environment like the Flatiron School. 
+In the fall of 2014, I started working for a grocery delivery tech start up, Good Eggs, as a member of their operations team. I was attracted to the company because of their mission to build and sustain local food systems. I began studying the code that Good Egg’s systems relied on and this sparked my interest in being a web developer. I realized I wanted to be a part of a team that built applications like the ones the operations team ran on. In February of 2015 Good Eggs underwent a restructure that resulted in the company laying off 20% of the work force in one day. I was among those who lost their jobs that day. After initially feeling disappointment, it turned out to be a blessing in disguise, as I have now been able to dedicate more of my time to programming. All of these unique experiences have led me to a place where I am ready to use my adaptability, creativity and problem-solving skills in an innovative and challenging environment like the Flatiron School. 
+
+
+
+
+
+
+Describe your background with computer programming. Please be as detailed as possible. Feel free to include links to any applications you've built, courses you've completed, etc... *
+
+
+
+I had zero experience as a computer programmer in February 2015. 
+
+My ‘aha’ moment came while I was working for a virtual farmer’s market, Good Eggs. As a member of their operations team, we relied heavily on the applications that the company’s programmers were developing. 
+
+While we held company meetings I felt frustrated and stuck. I worked hard on the operations team, but the problems I wanted to be solving were what the dev team was working on. I had a lot of ideas for how to improve the operations team, but without knowing how to code, I didn’t have the tools to implement my ideas. My experience at Good Eggs showed me how limited my skill set would be if I didn’t learn how to code. 
+
+The final push I needed to learn to code was when Good Eggs underwent a restructure that resulted in the company laying off 20% of the work force in one day. I was among those who lost their jobs that day. This would be my chance to take the future of my career into my own hands and learn to code. 
+
+Still, I wasn’t totally convinced by my ‘aha’ moment, or even if I was even smart enough to be a programmer. So I spent the next couple of weeks going through the Flatiron Prework.
+
+At first, I was really self-conscious that I didn’t ‘look like a programmer.’ When asking questions to my roommate and Flatiron alum, Josh Rowley, I worried if I ‘appeared’ to know what I was talking about, after all, I went to school for acting. 
+
+But, I thought about an important lesson I learned while studying acting at NYU Tisch: its ok not to know the answer. As an actor, you don’t walk into rehearsal on the first day knowing every choice you will make on stage; instead, you have to work towards something. Solving problems as an actor is as much about the journey, as it is about being right. And so whenever I am faced with something scary, I think about my experiences and know that it is ok to take on the unknown, you will be fine.  
+
+After completeing the Flatiron Prework, I was convinced that I wanted to be a programmer. When I first began to code, I was easily intimidated by any error. But, I slowly started to understand that I wasn’t getting the error messages because I am dumb—I was getting them because coding is hard! I have learned to embrace the ‘error’ message. At first, I would get frustrated and go into panic mode by blindly searching Google for answers; now, I have begun to wrap my head around the fact that programming is hard. Everyone gets frustrated and annoyed, that’s just how it is. But the high of figuring it out—the rush that comes with using your computer as an instrument and getting it to do exactly what you want—is what makes it worth it. 
+
+Below are links to my GitHub repo’s. While working on the prework I challeneged myself to build my own website, in order to better cement the concepts I was learning. This project ended up growing as I kept learning and I decided to try my hand at Ruby on Rails. The concepts I tackled on my Rails app are over my head with what I know now, but I hope it proves as an example of my determination to learn, my creativity and adaptability to new challenges. 
+
+•	This is the link to my first repo, an html/css site: https://github.com/danielglatstein/dodgerredhead-site
+•	As I moved on in the prework, I decided to try my hand at building a web appplication: https://github.com/danielglatstein/dodgerredhead-app
+•	Here is a list of the online courses (and links) that I have taken in the past months: 
+•	Learn.co
+•	Build an HTML and CSS Website from Scratch (http://www.skillshare.com/Build-a-HTML-and-CSS-Website-From-Scratch/1216366887)
+•	Build a Responsive Website (http://teamtreehouse.com/library/websites/build-a-responsive-website/)
+•	How to Use Git and Github  (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+•	CodeAcadamy’s Ruby track (http://www.codecademy.com/tracks/ruby)
+•	http://learn-rails.com/learn-ruby-on-rails.html
+•	Ruby on Rails in 30 days Build your First Web App (http://www.skillshare.com/classes/technology/Ruby-on-Rails-in-30-Days-Build-Your-First-Web-App/2136222497)
+•	Ruby on Rails in 3 Weeks Build Evernote, Pinterest and Wordpress (http://www.skillshare.com/classes/technology/Ruby-on-Rails-in-3-Weeks-Build-Evernote-Pinterest-and-Wordpress/1493287244)
+
+
+
+
+
 
 The ability to think in a structured way, both creatively and quantitatively, to solve complex problems is an important element of being a successful developer. Can you tell us anything that demonstrates your abilities in that realm? (anything from standardized test scores to experience playing a musical instrument counts) *
+
 
 In 2014, I traveled to Madagascar as a volunteer teacher with Zara Aina. The theater programming I helped to create inspired our students to be confident learners who are better prepared to participate actively in their education, community and social lives. Through  thinking creatively and collaborating with others, theater helps to motivate the students to achieve more and invest in their sense of possibility. 
 
@@ -64,7 +124,8 @@ The next morning Andreas returned the Ipods.
 
 This is an example of the trust that Zara Aina’s work helps to build between the instructors and the students. This trust helps to make Zara Aina a transformational program.  
 
-For the rest of the workshop, Andreas was a model student. He became the star of his scene and would come to rehearsals with lots of ideas. 
+For the rest of the workshop, Andreas was a model student. He became the star of his scene and would come to 
+    rehearsals with lots of ideas. 
 
 Andreas had a smile on his face that stretched from ear to ear after he performed at UNICEF’S “30 Years in Madagascar” celebration. Andreas expressed to me that in the beginning he felt small and as if he had nothing to offer, but as a result of the time spent working with the company he felt “big” and recognized the gifts that he possesses. 
 
